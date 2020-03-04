@@ -10,3 +10,5 @@ We build:
 - Transfer Learning with VGG and varying degrees of image augmentation.  
 - A merged Network that uses both the structured and unstructured data.  
 - A function that asks for human input in cases where the Neural Network is uncertain about a classification.  
+
+Should you have any questions or suggestions, do not hesitate to contact me!
